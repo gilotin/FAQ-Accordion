@@ -22,11 +22,17 @@ body {
     font-family: "WorkSans", sans-serif;
 }
 
-
-.hidden {
-    display: none;
+.faq__answer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 1.4s ease;
 }
 
-.visible {
-    display: block;
+.faq__card.active .faq__answer {
+    max-height: 300px;
+    transition: max-height 1.4s ease;
+}
+
+.button {
+    all: unset;
 }
