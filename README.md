@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop [](./screenshots/desktop.png);
-Mobile [](./screenshots/mobile.png);
+Desktop ![](./screenshots/desktop.png);
+Mobile ![](./screenshots/mobile.png);
 
 ### Links
 
--   Solution URL: [GitHub link to the code]()
--   Live Site URL: [live site uploaded in Vercel]()
+-   Solution URL: [GitHub link to the code](https://github.com/gilotin/FAQ-Accordion)
+-   Live Site URL: [live site uploaded in Vercel](https://faq-accordion-two-pi.vercel.app/)
 
 ## My process
 
