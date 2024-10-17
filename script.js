@@ -9,10 +9,10 @@ faqs.forEach((faq) =>
         console.log(buttonImg.className);
 
         if (buttonImg.className == "closed") {
-            buttonImg.src = "./assets/images/icon-plus.svg";
+            buttonImg.src = "./assets/images/icon-minus.svg";
             buttonImg.className = "open";
         } else {
-            buttonImg.src = "./assets/images/icon-minus.svg";
+            buttonImg.src = "./assets/images/icon-plus.svg";
             buttonImg.className = "closed";
         }
     })
