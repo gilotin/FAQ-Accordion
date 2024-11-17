@@ -6,8 +6,6 @@ faqs.forEach((faq) =>
 
         faq.classList.toggle("active");
 
-        console.log(buttonImg.className);
-
         if (buttonImg.className == "closed") {
             buttonImg.src = "./assets/images/icon-minus.svg";
             buttonImg.className = "open";
